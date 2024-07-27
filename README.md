@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KSPVarma
+- 👋 Hi, I’m @KSPVarma. I'm currently working as Data Science Intern at Syzygy Plasmonics
 - 👀 I’m interested in Data Science. Actively looking for summer internships 2024
 - 📫 How to reach me saipraneethvarma7@gmail.com
 
